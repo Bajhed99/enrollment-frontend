@@ -13,7 +13,7 @@
 
 <script setup>
 import { useAttrs } from "vue";
-import { cn } from "../utils";
+import { cn } from "../../utils";
 
 const props = defineProps({
   className: {
